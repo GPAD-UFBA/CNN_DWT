@@ -1,2 +1,2 @@
 # CNN_DWT
-Bloco CNN cuja entrada PeDFs / Encom
+Bloco CNN cuja entrada DWT / Encom
